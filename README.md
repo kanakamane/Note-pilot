@@ -1,4 +1,4 @@
-# MailMind AI – Chrome Extension
+Note pilot – Chrome Extension
 
 A Chrome extension that uses **Google’s Gemini API** to generate quick and concise summaries of any web article. It helps users extract key points, highlight important information, and save summaries locally for future reference.
 
